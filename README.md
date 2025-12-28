@@ -278,6 +278,6 @@ MIT License - feel free to use for research and commercial purposes.
 
 **Made with 🌉 by the BRIDGE Team**
 
-[Report Bug](https://github.com/YOUR_USERNAME/BRIDGE/issues) · [Request Feature](https://github.com/YOUR_USERNAME/BRIDGE/issues)
+[Report Bug](https://github.com/fauzisho/Bridge/issues) · [Request Feature](https://github.com/fauzisho/Bridge/issues)
 
 </div>

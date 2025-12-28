@@ -50,13 +50,7 @@ Layer 11: ✅ Red dress maintained
 ---
 
 ## ✨ Key Features
-
-- **🔄 Dynamic Reference Selection** - Automatically finds the best working layer as reference
-- **📊 Adaptive Blending** - Distance-based consistency strength (farther = more blending)
-- **🎯 Failure Detection** - Smart detection of black/failed images
-- **🎨 Three-Way Comparison** - Visualize Original vs Steered vs Steered+Consistency
-- **⚡ Prompt-Agnostic** - Works for any prompt and steering target
-
+Still in progress, since this experiment has only been tested for this prompt.
 ---
 
 ## 🚀 Quick Start

@@ -20,7 +20,7 @@
 
 ## 🎯 What is BRIDGE?
 
-**BRIDGE** solves a critical problem in mechanistic steering of diffusion models: **black images when skipping too many encoder layers**.
+**BRIDGE** solves a critical problem in mechanistic steering of diffusion models: **black images (Block by Not safe for work (NWSF)) when skipping too many encoder layers**.
 
 When applying concept steering (e.g., "nude" → "dressed") using the Diffusion Lens technique, early encoder layers (9-11) fail to generate coherent images, resulting in black outputs. BRIDGE fixes this by **blending hidden states** from a working reference layer to maintain consistency.
 

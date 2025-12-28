@@ -227,9 +227,9 @@ If you find BRIDGE useful in your research, please cite:
 ```bibtex
 @misc{bridge2025,
   title={BRIDGE: Blending Representations for Improved Diffusion Guidance and Encoding},
-  author={Your Name},
+  author={Fauzi Sholichin},
   year={2025},
-  howpublished={\url{https://github.com/YOUR_USERNAME/BRIDGE}}
+  howpublished={\url{https://github.com/fauzisho/BRIDGE}}
 }
 ```
 

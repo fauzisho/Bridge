@@ -9,7 +9,7 @@
 </div>
 
 <p>
-  <a href='https://colab.research.google.com/drive/YOUR_COLAB_LINK'><img src='https://img.shields.io/badge/🚀Colab-Demo-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=1a1a2e'></a>
+  <a href='https://colab.research.google.com/drive/1PrtcW13F4G6TlPhWELJ1KK4Q8RvZefBZ?usp=sharing'><img src='https://img.shields.io/badge/🚀Colab-Demo-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=1a1a2e'></a>
   <img src="https://img.shields.io/badge/🐍Python-3.10+-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e">
   <img src="https://img.shields.io/badge/⚡PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1a2e">
 </p>
@@ -59,13 +59,13 @@ Still in progress, since this experiment has only been tested for this prompt.
 
 Click the badge below to open in Colab and run immediately:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/YOUR_COLAB_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PrtcW13F4G6TlPhWELJ1KK4Q8RvZefBZ?usp=sharing)
 
 ### Option 2: Local Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/BRIDGE.git
+git clone https://github.com/fauzisho/Bridge.git
 cd BRIDGE
 
 # Install dependencies
